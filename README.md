@@ -7,9 +7,9 @@ cd space-invaders-game
 
 2. Create a virtual environment for game:
 On windows:
-python -m venv venv
+python -m venv .venv
 On MacOS/Linux:
-python3 -m venv venv
+python3 -m venv .venv
 
 To activate:
 On windows:
