@@ -2,7 +2,7 @@
 
 Install Instructions:
 1. Clone repository to your machine:
-git clone https://github.com/crox-07/space-invaders-game.git
+git clone https://github.com/crox-07/space-invaders-project.git
 cd space-invaders-game
 
 2. Create a virtual environment for game:
